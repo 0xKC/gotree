@@ -4,4 +4,4 @@ Usage:
 
 go build tree.go
 
-./tree -dir <directory path>
+./tree -dir directory path
